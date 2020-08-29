@@ -30,7 +30,7 @@ Variables for each shapefile (city.shp) are as follows:
 
 Please attribute the use of this data to:
 
-Giang A, Castellani K. 2020. Data Files: Cumulative air pollution indicators highlight unique patterns of injustice in urban Canada
+Giang A, Castellani K. 2020. Data Files: Cumulative air pollution indicators highlight unique patterns of injustice in urban Canada. DOI: 10.5281/zenodo.4007392
 
 Underlying air pollution data should be attributed to: 
 
